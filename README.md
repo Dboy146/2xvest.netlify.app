@@ -1,2 +1,3 @@
 # 2xvest.netlify.app
-investment
+investment 
+invest with peace of mind and no stress
